@@ -1,0 +1,357 @@
+2022-09-13 12:09:04,172 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 12:09:04,175 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 12:09:04,175 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 12:09:04,175 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 12:09:04,176 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 12:09:04,176 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 12:09:04,176 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 12:09:04,176 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 12:09:04,176 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 12:09:04,176 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 12:09:04,176 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 12:09:04,177 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 12:09:04,177 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 12:09:04,177 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 12:09:04,177 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 12:09:04,177 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 12:09:04,178 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 12:09:04,178 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 12:09:04,178 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 12:09:04,178 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 12:09:04,178 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 12:09:04,178 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 12:09:04,178 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 12:09:08,821 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 12:09:08,823 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 12:09:08,823 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 12:09:08,823 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 12:09:08,824 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 12:09:08,824 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 12:09:08,824 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 12:09:08,824 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 12:09:08,824 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 12:09:08,824 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 12:09:08,825 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 12:09:08,825 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 12:09:08,825 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 12:09:08,825 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 12:09:08,825 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 12:09:08,825 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 12:09:08,826 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 12:09:08,826 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 12:09:08,826 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 12:09:08,826 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 12:09:08,826 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 12:09:08,826 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 12:09:08,826 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 12:09:18,397 DEBUG [main] cmn.LoggerManager (DrinkDao.java:51)     - 021,참이슬,5000원,true
+2022-09-13 12:09:18,399 DEBUG [main] cmn.LoggerManager (DrinkDao.java:51)     - 022,처음처럼,5000원,true
+2022-09-13 12:09:18,399 DEBUG [main] cmn.LoggerManager (DrinkDao.java:51)     - 023,카스,5000원,true
+2022-09-13 12:09:18,399 DEBUG [main] cmn.LoggerManager (DrinkDao.java:51)     - 024,막걸리,5000원,true
+2022-09-13 12:09:18,400 DEBUG [main] cmn.LoggerManager (DrinkDao.java:26)     - data.size:4
+2022-09-13 12:09:18,400 DEBUG [main] cmn.LoggerManager (DrinkDao.java:29)     - Drink [drinkNum=021, drinkName=참이슬, Price=5000원, available=false]
+2022-09-13 12:09:18,400 DEBUG [main] cmn.LoggerManager (DrinkDao.java:29)     - Drink [drinkNum=022, drinkName=처음처럼, Price=5000원, available=false]
+2022-09-13 12:09:18,400 DEBUG [main] cmn.LoggerManager (DrinkDao.java:29)     - Drink [drinkNum=023, drinkName=카스, Price=5000원, available=false]
+2022-09-13 12:09:18,400 DEBUG [main] cmn.LoggerManager (DrinkDao.java:29)     - Drink [drinkNum=024, drinkName=막걸리, Price=5000원, available=false]
+2022-09-13 12:09:21,646 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 12:09:21,647 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 12:09:21,647 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 12:09:21,648 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 12:09:21,649 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 12:09:21,649 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 12:09:21,649 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 12:09:21,649 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 12:09:21,649 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 12:09:26,808 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 12:09:26,809 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 12:09:26,810 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 12:09:26,810 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 12:09:26,811 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 12:09:26,812 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 12:09:26,812 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 12:09:26,812 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 12:09:26,812 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 12:09:26,812 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 12:09:26,812 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 12:09:26,812 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 12:09:31,068 DEBUG [main] cmn.LoggerManager ( SideDao.java:51)     - 011,볶음밥,2000원,true
+2022-09-13 12:09:31,070 DEBUG [main] cmn.LoggerManager ( SideDao.java:51)     - 012,공기밥,1000원,true
+2022-09-13 12:09:31,070 DEBUG [main] cmn.LoggerManager ( SideDao.java:51)     - 013,면사리,2000원,true
+2022-09-13 12:09:31,070 DEBUG [main] cmn.LoggerManager ( SideDao.java:26)     - data.size:3
+2022-09-13 12:09:31,071 DEBUG [main] cmn.LoggerManager ( SideDao.java:29)     - Side [sideNum=011, sideName=볶음밥, price=2000원, available=false]
+2022-09-13 12:09:31,071 DEBUG [main] cmn.LoggerManager ( SideDao.java:29)     - Side [sideNum=012, sideName=공기밥, price=1000원, available=false]
+2022-09-13 12:09:31,071 DEBUG [main] cmn.LoggerManager ( SideDao.java:29)     - Side [sideNum=013, sideName=면사리, price=2000원, available=false]
+2022-09-13 13:45:22,211 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 13:45:22,213 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 13:45:22,213 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 13:45:22,213 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 13:45:22,214 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 13:45:22,214 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 13:45:22,214 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 13:45:22,214 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 13:45:22,215 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:45:22,216 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 13:45:22,216 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 13:45:22,216 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 13:45:22,216 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 13:45:22,216 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 13:45:22,216 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 13:45:22,216 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 13:46:37,596 DEBUG [main] cmn.LoggerManager ( MenuDao.java:232)     - isContains:false
+2022-09-13 13:46:37,596 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:203)     - 제육볶음 등록 실패!.
+2022-09-13 13:47:03,898 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:47:03,900 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:47:03,900 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:47:03,900 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:47:03,901 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:47:03,901 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:47:03,901 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:47:03,902 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:47:03,902 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:47:18,372 DEBUG [main] cmn.LoggerManager ( FoodDao.java:192)     - isContains:false
+2022-09-13 13:47:18,373 DEBUG [main] cmn.LoggerManager (FoodDaoTest.java:202)     - 제육볶음 등록 실패!.
+2022-09-13 13:51:18,427 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:51:18,429 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:51:18,429 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:51:18,429 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:51:18,430 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:51:18,430 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:51:18,430 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:51:18,430 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:51:18,430 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:54:25,887 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:54:25,889 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:54:25,889 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:54:25,889 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:54:25,890 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:54:25,890 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:54:25,890 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:54:25,890 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:54:25,890 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:54:27,909 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:54:27,911 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:54:27,911 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:54:27,911 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:54:27,913 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:54:27,913 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:54:27,913 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:54:27,913 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:54:27,913 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:56:03,166 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:56:03,168 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:56:03,168 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:56:03,168 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:56:03,169 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:56:03,170 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:56:03,170 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:56:03,170 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:56:03,170 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:56:38,340 DEBUG [main] cmn.LoggerManager (FoodDaoTest.java:231)     - 005 삭제 실패!.
+2022-09-13 13:56:59,283 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:56:59,284 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:56:59,284 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:56:59,285 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:56:59,286 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:56:59,286 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:56:59,286 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:56:59,286 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:56:59,286 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:57:58,174 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:57:58,175 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:57:58,175 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:57:58,175 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:57:58,176 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:57:58,177 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:57:58,177 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:57:58,177 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:57:58,177 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:58:13,876 DEBUG [main] cmn.LoggerManager ( FoodDao.java:192)     - isContains:false
+2022-09-13 13:58:13,876 DEBUG [main] cmn.LoggerManager (FoodDaoTest.java:202)     - 제육볶음 등록 실패!.
+2022-09-13 13:58:36,145 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 001,오리훈제,30000원,true
+2022-09-13 13:58:36,147 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 002,오리주물럭,30000원,true
+2022-09-13 13:58:36,147 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 003,오리백숙,30000원,true
+2022-09-13 13:58:36,147 DEBUG [main] cmn.LoggerManager ( FoodDao.java:51)     - 004,오뎅탕,16000원,true
+2022-09-13 13:58:36,148 DEBUG [main] cmn.LoggerManager ( FoodDao.java:26)     - data.size:4
+2022-09-13 13:58:36,148 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=001, foodName=오리훈제, price=30000원, available=false]
+2022-09-13 13:58:36,148 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=002, foodName=오리주물럭, price=30000원, available=false]
+2022-09-13 13:58:36,148 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=003, foodName=오리백숙, price=30000원, available=false]
+2022-09-13 13:58:36,148 DEBUG [main] cmn.LoggerManager ( FoodDao.java:29)     - Food [foodNum=004, foodName=오뎅탕, price=16000원, available=false]
+2022-09-13 13:58:51,956 DEBUG [main] cmn.LoggerManager ( FoodDao.java:192)     - isContains:false
+2022-09-13 13:58:51,956 DEBUG [main] cmn.LoggerManager (FoodDaoTest.java:202)     - 제육볶음 등록 실패!.
+2022-09-13 14:02:43,888 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 14:02:43,890 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 14:02:43,890 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 14:02:43,890 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 14:02:43,891 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 14:02:43,891 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 14:02:43,891 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 14:02:43,891 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 14:02:43,891 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 14:02:43,891 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 14:02:43,892 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 14:02:43,892 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 14:02:43,892 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 14:02:43,892 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 14:02:43,892 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 14:02:43,892 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 14:02:43,893 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 14:02:43,893 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 14:02:43,893 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 14:02:43,893 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 14:02:43,893 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 14:02:43,893 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 14:02:43,893 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 14:03:07,595 DEBUG [main] cmn.LoggerManager ( MenuDao.java:232)     - isContains:false
+2022-09-13 14:03:07,596 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:203)     - 제육볶음 등록 실패!.
+2022-09-13 14:03:51,046 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 14:03:51,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 14:03:51,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 14:03:51,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 14:03:51,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 14:03:51,050 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 14:03:51,050 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 14:03:51,050 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 14:03:51,050 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 14:03:51,050 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 14:03:51,050 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 14:03:51,051 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 14:03:51,051 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 14:03:51,051 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 14:03:51,051 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 14:03:51,051 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 14:05:08,044 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 14:05:08,046 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 14:05:08,046 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 14:05:08,046 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 14:05:08,047 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 14:05:08,047 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 14:05:08,047 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 14:05:08,047 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 14:05:08,047 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 14:05:08,047 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 14:05:08,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 14:05:08,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 14:05:08,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 14:05:08,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 14:05:08,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 14:05:08,048 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 14:05:08,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 14:05:08,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 14:05:08,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 14:05:08,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 14:05:08,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 14:05:08,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 14:05:08,049 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 14:05:18,747 DEBUG [main] cmn.LoggerManager ( MenuDao.java:232)     - isContains:false
+2022-09-13 14:05:18,747 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:203)     - 제육볶음 등록 실패!.
+2022-09-13 14:07:31,829 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 14:07:31,831 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 14:07:31,831 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 14:07:31,831 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 14:07:31,832 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 14:07:31,832 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 14:07:31,832 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 14:07:31,832 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 14:07:31,833 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 14:07:31,834 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 14:07:31,834 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 14:07:31,834 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 14:07:31,834 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 14:07:31,834 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 14:07:31,834 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 14:07:31,834 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 14:07:44,667 DEBUG [main] cmn.LoggerManager ( MenuDao.java:232)     - isContains:false
+2022-09-13 14:07:44,667 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:201)     - 제육볶음 등록 되었습니다.
+2022-09-13 14:58:09,951 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 14:58:09,953 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 14:58:09,953 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 14:58:09,953 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 14:58:09,954 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 14:58:09,954 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 14:58:09,954 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 14:58:09,954 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 14:58:09,954 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 14:58:09,954 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 14:58:09,955 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 14:58:09,955 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 14:58:09,955 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 14:58:09,955 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 14:58:09,955 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 14:58:09,955 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 14:58:09,956 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 14:58:09,956 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 14:58:09,956 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 14:58:09,956 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 14:58:09,956 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 14:58:09,956 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 14:58:09,956 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 14:58:31,447 DEBUG [main] cmn.LoggerManager ( MenuDao.java:232)     - isContains:false
+2022-09-13 14:58:31,447 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:201)     - 제육볶음 등록 되었습니다.
+2022-09-13 14:59:43,301 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 001,오리훈제,30000원,true
+2022-09-13 14:59:43,302 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 002,오리주물럭,30000원,true
+2022-09-13 14:59:43,303 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 003,오리백숙,30000원,true
+2022-09-13 14:59:43,303 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 004,오뎅탕,16000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 011,볶음밥,2000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 012,공기밥,1000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 013,면사리,2000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 021,참이슬,5000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 022,처음처럼,5000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 023,카스,5000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:90)     - 024,막걸리,5000원,true
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:29)     - data.size:11
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=001, menuName=오리훈제, price=30000원, available=false]
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=002, menuName=오리주물럭, price=30000원, available=false]
+2022-09-13 14:59:43,304 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=003, menuName=오리백숙, price=30000원, available=false]
+2022-09-13 14:59:43,305 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=004, menuName=오뎅탕, price=16000원, available=false]
+2022-09-13 14:59:43,305 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=011, menuName=볶음밥, price=2000원, available=false]
+2022-09-13 14:59:43,305 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=012, menuName=공기밥, price=1000원, available=false]
+2022-09-13 14:59:43,305 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=013, menuName=면사리, price=2000원, available=false]
+2022-09-13 14:59:43,305 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=021, menuName=참이슬, price=5000원, available=false]
+2022-09-13 14:59:43,305 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=022, menuName=처음처럼, price=5000원, available=false]
+2022-09-13 14:59:43,306 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=023, menuName=카스, price=5000원, available=false]
+2022-09-13 14:59:43,306 DEBUG [main] cmn.LoggerManager ( MenuDao.java:32)     - Menu [menuNum=024, menuName=막걸리, price=5000원, available=false]
+2022-09-13 14:59:56,663 DEBUG [main] cmn.LoggerManager ( MenuDao.java:232)     - isContains:false
+2022-09-13 14:59:56,663 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:201)     - 제육볶음 등록 되었습니다.
+2022-09-14 15:41:16,775 DEBUG [main] cmn.LoggerManager ( MenuDao.java:94)     - 001,오리훈제,30000원,true
+2022-09-14 15:41:16,775 DEBUG [main] cmn.LoggerManager ( MenuDao.java:69)     - data.size:1
+2022-09-14 15:41:39,652 DEBUG [main] cmn.LoggerManager ( MenuDao.java:231)     - isContains:false
+2022-09-14 15:41:39,652 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:155)     - 오리로스 등록 완료!
+2022-09-14 15:42:30,648 DEBUG [main] cmn.LoggerManager ( MenuDao.java:267)     - 삭제 데이터:Menu [menuNum=003, menuName=오리로스, price=20000원, isAvailable=true]
+2022-09-14 15:42:30,648 DEBUG [main] cmn.LoggerManager ( MenuDao.java:231)     - isContains:false
+2022-09-14 15:42:30,657 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:168)     - 수정 완료!
+2022-09-14 15:42:48,519 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:237)     - 저장건수:1
+2022-09-14 15:42:48,519 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:245)     - ==========================================================
+2022-09-14 15:42:48,520 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:246)     - =======================프로그램 종료===========================
+2022-09-14 15:42:48,520 DEBUG [main] cmn.LoggerManager (MenuDaoTest.java:247)     - ==========================================================

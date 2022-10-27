@@ -1,0 +1,386 @@
+2022-09-19 09:15:27,330 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 09:15:27,332 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 09:15:27,332 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 09:20:13,829 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 09:20:13,831 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 09:20:13,831 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 12:07:15,919 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 12:07:15,921 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 12:07:15,921 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 12:07:22,934 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 12:07:22,934 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 001 삭제 완료!
+2022-09-19 12:07:34,782 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 12:07:34,782 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리훈제 추가 완료!
+2022-09-19 12:07:43,990 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=001, menuName=오리훈제, price=30000, amount=2]
+2022-09-19 12:07:43,990 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 001 삭제 완료!
+2022-09-19 12:15:43,935 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 12:15:43,937 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 12:15:43,937 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 12:15:50,829 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 12:15:50,829 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:211)     - 002 삭제 완료!
+2022-09-19 12:15:58,140 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 12:15:58,142 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 12:29:39,453 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 12:29:39,454 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 12:29:39,455 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 12:29:44,412 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 12:29:44,412 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:211)     - 002 삭제 완료!
+2022-09-19 12:29:51,213 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 12:29:51,213 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 12:29:56,653 DEBUG [main] cmn.LoggerManager ( CartDao.java:165)     - cartNum을 확인 하세요.(002)
+2022-09-19 12:29:56,653 DEBUG [main] cmn.LoggerManager ( CartDao.java:165)     - cartNum을 확인 하세요.(002)
+2022-09-19 13:35:21,427 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 13:35:21,428 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 13:35:21,428 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:35:39,145 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:35:39,145 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:211)     - 002 삭제 완료!
+2022-09-19 13:35:49,153 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 13:35:49,153 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 13:35:55,529 DEBUG [main] cmn.LoggerManager ( CartDao.java:165)     - cartNum을 확인 하세요.(002)
+2022-09-19 13:35:55,529 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:35:55,529 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 002 삭제 완료!
+2022-09-19 13:39:39,385 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:213)     - 002 삭제 실패!
+2022-09-19 13:39:56,441 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 13:39:56,441 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 13:40:07,673 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:40:07,673 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:211)     - 002 삭제 완료!
+2022-09-19 13:40:27,833 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 13:40:27,834 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 13:40:32,153 DEBUG [main] cmn.LoggerManager ( CartDao.java:165)     - cartNum을 확인 하세요.(002)
+2022-09-19 13:40:32,153 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:40:32,153 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 002 삭제 완료!
+2022-09-19 13:41:17,929 DEBUG [main] cmn.LoggerManager ( CartDao.java:165)     - cartNum을 확인 하세요.(001)
+2022-09-19 13:41:17,929 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:184)     - 오리주물럭 추가 실패!.
+2022-09-19 13:41:33,321 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 13:41:33,321 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 13:41:42,793 DEBUG [main] cmn.LoggerManager ( CartDao.java:165)     - cartNum을 확인 하세요.(002)
+2022-09-19 13:41:42,793 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:41:42,793 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 002 삭제 완료!
+2022-09-19 13:54:44,970 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 13:54:44,972 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 13:54:44,972 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:54:50,720 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:54:50,720 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:211)     - 002 삭제 완료!
+2022-09-19 13:54:57,928 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 13:54:57,928 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 13:55:02,752 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:55:02,752 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 002 삭제 완료!
+2022-09-19 13:56:55,880 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 13:56:55,881 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 13:56:55,881 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:57:00,032 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:57:00,032 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:211)     - 002 삭제 완료!
+2022-09-19 13:57:07,776 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 13:57:07,776 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 13:57:12,664 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:57:12,664 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 002 삭제 완료!
+2022-09-19 13:58:24,864 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 13:58:24,866 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 13:58:24,866 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:58:29,239 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 13:58:29,240 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:211)     - 002 삭제 완료!
+2022-09-19 13:58:38,472 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 13:58:38,472 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:182)     - 오리주물럭 추가 완료!
+2022-09-19 13:58:40,593 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:296)     - 저장건수:2
+2022-09-19 13:58:40,593 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:302)     - ==========================================================
+2022-09-19 13:58:40,593 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:303)     - ========================프로그램 종료=========================
+2022-09-19 13:58:40,593 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:304)     - ==========================================================
+2022-09-19 13:58:41,937 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 13:58:41,939 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 13:58:41,939 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:58:46,191 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 13:58:46,192 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:272)     - 002 삭제 완료!
+2022-09-19 14:19:22,781 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:19:22,782 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:19:22,782 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:20:19,533 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:20:19,535 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:20:19,535 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:20:20,815 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:263)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:20:20,815 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:263)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:20:56,869 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:20:56,871 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:20:56,871 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:27:24,855 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:27:24,856 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:27:24,856 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:27:41,183 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:27:41,184 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:27:41,184 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:28:08,013 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:28:08,015 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:28:08,015 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:36:58,558 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:36:58,560 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:36:58,560 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:38:18,973 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:38:18,975 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:38:18,975 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:41:27,552 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:41:27,554 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:41:27,554 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:42:56,725 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:42:56,727 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:42:56,727 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:43:48,786 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:43:48,787 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:43:48,787 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:44:56,236 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:44:56,238 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:44:56,238 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:45:09,751 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:45:09,752 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:45:09,752 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:46:25,139 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:46:25,141 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:46:25,141 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:49:45,740 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:49:45,742 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:49:45,742 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:49:49,389 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:49:49,389 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:286)     - 002 삭제 완료!
+2022-09-19 14:50:00,206 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:50:00,207 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:50:00,207 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:50:06,150 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:50:06,150 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:286)     - 002 삭제 완료!
+2022-09-19 14:50:29,758 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:50:29,760 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:50:29,760 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:50:33,277 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:50:33,278 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:286)     - 002 삭제 완료!
+2022-09-19 14:59:33,556 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:59:33,557 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:59:33,558 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:59:38,065 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 14:59:38,067 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 14:59:38,067 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 14:59:42,165 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 14:59:42,165 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:288)     - 002 삭제 완료!
+2022-09-19 15:00:20,974 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:00:20,976 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:00:20,976 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:00:24,637 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 15:00:24,637 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:289)     - 002 삭제 완료!
+2022-09-19 15:00:55,007 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:00:55,008 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:00:55,008 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:00:58,757 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=1]
+2022-09-19 15:00:58,757 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:289)     - 002 삭제 완료!
+2022-09-19 15:04:34,015 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:04:34,018 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:04:34,018 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:04:38,045 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:04:38,045 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:290)     - 002 삭제 완료!
+2022-09-19 15:16:16,646 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:16:16,649 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:16:16,649 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:16:26,469 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:16:26,469 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:291)     - 002 삭제 완료!
+2022-09-19 15:38:43,854 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:38:43,855 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:38:43,856 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:38:47,771 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:38:47,771 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:292)     - 002 삭제 완료!
+2022-09-19 15:39:30,992 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:39:30,993 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:39:30,993 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:39:37,659 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:39:37,659 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:292)     - 002 삭제 완료!
+2022-09-19 15:41:17,362 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:41:17,364 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:41:17,364 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:41:21,371 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:41:21,371 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:291)     - 002 삭제 완료!
+2022-09-19 15:43:14,280 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:43:14,283 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:43:14,283 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:43:18,107 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:43:18,107 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:292)     - 002 삭제 완료!
+2022-09-19 15:44:25,493 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:44:25,495 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:44:25,495 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:44:29,419 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:44:29,419 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:293)     - 002 삭제 완료!
+2022-09-19 15:44:47,795 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:44:47,797 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:44:47,798 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:45:04,619 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 15:45:04,619 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:215)     - 002 삭제 완료!
+2022-09-19 15:45:15,203 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 15:45:15,203 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:186)     - 오리주물럭 추가 완료!
+2022-09-19 15:45:17,668 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:353)     - 저장건수:2
+2022-09-19 15:45:17,668 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:359)     - ==========================================================
+2022-09-19 15:45:17,668 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:360)     - ========================프로그램 종료=========================
+2022-09-19 15:45:17,668 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:361)     - ==========================================================
+2022-09-19 15:45:21,854 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:45:21,856 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:45:21,856 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:45:27,538 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:45:27,539 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:293)     - 002 삭제 완료!
+2022-09-19 15:46:11,821 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:46:11,823 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:46:11,823 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:46:17,714 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:46:17,715 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:294)     - 002 삭제 완료!
+2022-09-19 15:47:06,944 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:47:06,946 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:47:06,947 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:47:10,763 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:47:10,763 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:294)     - 002 삭제 완료!
+2022-09-19 15:48:34,605 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:48:34,607 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:48:34,607 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:48:39,586 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:48:39,587 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:215)     - 002 삭제 완료!
+2022-09-19 15:49:45,262 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:49:45,263 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:49:45,264 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:49:53,258 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:49:53,260 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:209)     - 002 삭제 완료!
+2022-09-19 15:49:59,489 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:49:59,491 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:49:59,491 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:58:32,549 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 15:58:32,550 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 15:58:32,551 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:58:48,362 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 15:58:48,364 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 15:58:48,364 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:264)     - 수정 완료!
+2022-09-19 16:00:18,308 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 16:00:18,310 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 16:00:18,310 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 16:00:44,610 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 16:00:44,612 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 16:00:44,612 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:275)     - 수정 완료!
+2022-09-19 16:02:16,830 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 16:02:16,832 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 16:02:16,832 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 16:06:36,498 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 16:06:36,499 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 16:06:36,499 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 16:30:10,222 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:2
+2022-09-19 16:30:10,224 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 16:30:10,224 DEBUG [main] cmn.LoggerManager ( CartDao.java:28)     - Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 16:30:15,697 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 16:30:15,697 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:210)     - 001 삭제 완료!
+2022-09-19 16:30:17,776 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=3]
+2022-09-19 16:30:17,777 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:210)     - 002 삭제 완료!
+2022-09-19 16:30:20,512 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:365)     - 저장건수:0
+2022-09-19 16:30:20,513 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:371)     - ==========================================================
+2022-09-19 16:30:20,513 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:372)     - ========================프로그램 종료=========================
+2022-09-19 16:30:20,513 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:373)     - ==========================================================
+2022-09-19 16:30:33,353 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:31:50,230 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:32:25,399 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:33:27,009 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:37:02,966 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:47:37,358 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:47:55,966 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:48:51,419 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:50:00,952 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 16:50:37,277 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 17:02:58,551 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 17:03:06,135 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:377)     - 저장건수:0
+2022-09-19 17:03:06,135 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:383)     - ==========================================================
+2022-09-19 17:03:06,135 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:384)     - ========================프로그램 종료=========================
+2022-09-19 17:03:06,135 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:385)     - ==========================================================
+2022-09-19 17:03:11,058 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 17:19:19,550 DEBUG [main] cmn.LoggerManager ( MenuDao.java:25)     - data.size:14
+2022-09-19 17:19:19,552 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=001, menuName=오리훈제, price=30000, isAvailable=true]
+2022-09-19 17:19:19,552 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=002, menuName=오리주물럭, price=32000, isAvailable=true]
+2022-09-19 17:19:19,552 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=003, menuName=오리로스, price=33000, isAvailable=true]
+2022-09-19 17:19:19,553 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=004, menuName=오리백숙, price=35000, isAvailable=true]
+2022-09-19 17:19:19,553 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=011, menuName=공기밥, price=1000, isAvailable=true]
+2022-09-19 17:19:19,553 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=012, menuName=볶음밥, price=2000, isAvailable=true]
+2022-09-19 17:19:19,553 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=013, menuName=라면사리, price=2000, isAvailable=true]
+2022-09-19 17:19:19,553 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=021, menuName=참이슬, price=5000, isAvailable=true]
+2022-09-19 17:19:19,553 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=022, menuName=처음처럼, price=5000, isAvailable=true]
+2022-09-19 17:19:19,554 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=023, menuName=카스, price=6000, isAvailable=true]
+2022-09-19 17:19:19,554 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=024, menuName=막걸리, price=5000, isAvailable=true]
+2022-09-19 17:19:19,554 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=025, menuName=콜라, price=2000, isAvailable=true]
+2022-09-19 17:19:19,554 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=026, menuName=사이다, price=2000, isAvailable=true]
+2022-09-19 17:19:19,554 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=027, menuName=환타, price=2000, isAvailable=false]
+2022-09-19 17:19:46,439 DEBUG [main] cmn.LoggerManager ( MenuDao.java:25)     - data.size:14
+2022-09-19 17:19:46,440 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=001, menuName=오리훈제, price=30000, isAvailable=true]
+2022-09-19 17:19:46,440 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=002, menuName=오리주물럭, price=32000, isAvailable=true]
+2022-09-19 17:19:46,441 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=003, menuName=오리로스, price=33000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=004, menuName=오리백숙, price=35000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=011, menuName=공기밥, price=1000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=012, menuName=볶음밥, price=2000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=013, menuName=라면사리, price=2000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=021, menuName=참이슬, price=5000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=022, menuName=처음처럼, price=5000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=023, menuName=카스, price=6000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=024, menuName=막걸리, price=5000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=025, menuName=콜라, price=2000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=026, menuName=사이다, price=2000, isAvailable=true]
+2022-09-19 17:19:46,442 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=027, menuName=환타, price=2000, isAvailable=false]
+2022-09-19 17:20:06,391 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 17:20:33,137 DEBUG [main] cmn.LoggerManager ( CartDao.java:25)     - data.size:0
+2022-09-19 17:23:10,384 DEBUG [main] cmn.LoggerManager ( MenuDao.java:25)     - data.size:14
+2022-09-19 17:23:10,385 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=001, menuName=오리훈제, price=30000, isAvailable=true]
+2022-09-19 17:23:10,385 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=002, menuName=오리주물럭, price=32000, isAvailable=true]
+2022-09-19 17:23:10,385 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=003, menuName=오리로스, price=33000, isAvailable=true]
+2022-09-19 17:23:10,386 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=004, menuName=오리백숙, price=35000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=011, menuName=공기밥, price=1000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=012, menuName=볶음밥, price=2000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=013, menuName=라면사리, price=2000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=021, menuName=참이슬, price=5000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=022, menuName=처음처럼, price=5000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=023, menuName=카스, price=6000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=024, menuName=막걸리, price=5000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=025, menuName=콜라, price=2000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=026, menuName=사이다, price=2000, isAvailable=true]
+2022-09-19 17:23:10,387 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=027, menuName=환타, price=2000, isAvailable=false]
+2022-09-19 17:23:40,109 DEBUG [main] cmn.LoggerManager ( MenuDao.java:25)     - data.size:14
+2022-09-19 17:23:40,110 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=001, menuName=오리훈제, price=30000, isAvailable=true]
+2022-09-19 17:23:40,110 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=002, menuName=오리주물럭, price=32000, isAvailable=true]
+2022-09-19 17:23:40,110 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=003, menuName=오리로스, price=33000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=004, menuName=오리백숙, price=35000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=011, menuName=공기밥, price=1000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=012, menuName=볶음밥, price=2000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=013, menuName=라면사리, price=2000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=021, menuName=참이슬, price=5000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=022, menuName=처음처럼, price=5000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=023, menuName=카스, price=6000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=024, menuName=막걸리, price=5000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=025, menuName=콜라, price=2000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=026, menuName=사이다, price=2000, isAvailable=true]
+2022-09-19 17:23:40,112 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=027, menuName=환타, price=2000, isAvailable=false]
+2022-09-19 17:24:39,232 DEBUG [main] cmn.LoggerManager ( MenuDao.java:25)     - data.size:14
+2022-09-19 17:24:39,233 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=001, menuName=오리훈제, price=30000, isAvailable=true]
+2022-09-19 17:24:39,234 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=002, menuName=오리주물럭, price=32000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=003, menuName=오리로스, price=33000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=004, menuName=오리백숙, price=35000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=011, menuName=공기밥, price=1000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=012, menuName=볶음밥, price=2000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=013, menuName=라면사리, price=2000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=021, menuName=참이슬, price=5000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=022, menuName=처음처럼, price=5000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=023, menuName=카스, price=6000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=024, menuName=막걸리, price=5000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=025, menuName=콜라, price=2000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=026, menuName=사이다, price=2000, isAvailable=true]
+2022-09-19 17:24:39,235 DEBUG [main] cmn.LoggerManager ( MenuDao.java:28)     - Menu [menuNum=027, menuName=환타, price=2000, isAvailable=false]
+2022-09-19 17:29:53,129 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 17:29:53,129 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:193)     - 오리훈제 추가 완료!
+2022-09-19 17:29:55,549 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:377)     - 저장건수:1
+2022-09-19 17:29:55,549 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:383)     - ==========================================================
+2022-09-19 17:29:55,549 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:384)     - ========================프로그램 종료=========================
+2022-09-19 17:29:55,551 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:385)     - ==========================================================
+2022-09-19 17:31:08,883 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 17:31:08,885 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:193)     - 오리주물럭 추가 완료!
+2022-09-19 17:31:18,085 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=002, menuName=오리주물럭, price=32000, amount=2]
+2022-09-19 17:31:18,085 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:222)     - 002 삭제 완료!
+2022-09-19 17:31:31,733 DEBUG [main] cmn.LoggerManager ( CartDao.java:204)     - 삭제 데이터:Cart [menuNum=001, menuName=오리훈제, price=30000, amount=1]
+2022-09-19 17:31:31,735 DEBUG [main] cmn.LoggerManager ( CartDao.java:171)     - isContains:false
+2022-09-19 17:31:31,735 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:247)     - 수정 완료!
+2022-09-19 17:31:43,013 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:377)     - 저장건수:1
+2022-09-19 17:31:43,013 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:383)     - ==========================================================
+2022-09-19 17:31:43,013 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:384)     - ========================프로그램 종료=========================
+2022-09-19 17:31:43,013 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:385)     - ==========================================================
+2022-09-19 17:45:17,102 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:379)     - 저장건수:1
+2022-09-19 17:45:17,103 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:385)     - ==========================================================
+2022-09-19 17:45:17,103 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:385)     - ========================프로그램 종료=========================
+2022-09-19 17:45:17,103 DEBUG [main] cmn.LoggerManager (OrderDaoTest.java:385)     - ==========================================================
