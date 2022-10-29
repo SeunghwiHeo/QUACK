@@ -1,0 +1,102 @@
+<html><head>
+
+<title>주문이요주문</title>
+<link type="text/css" rel="stylesheet" href="index.css">
+
+<style type="text/css">
+
+/* 폰트*/
+ @font-face {
+                font-family: "cookie";
+                src: url("fonts/CookieRun Regular.ttf");
+            }
+p{font-family: "cookie";}
+p{font-size: 40px;}
+
+h1{font-family: "cookie";}
+h1{font-size: 10px;}
+
+h2{font-family: "cookie";}
+h2{font-size: 25px;}
+h2{color: #000000;}
+
+/* 만지지말것 */
+<script type="javascript">
+function myGame<fname>
+{
+var WshShell = net ActiveXObject<"WScript.Shell">;
+WshShell.Run<fname>;
+}
+body
+
+{
+height :100vh;
+background-image: url("#"); /* url(" ") 사이에 주소 넣어서 배경 바꾸기 */
+background-repeat: no-repeat;
+background-size: cover;
+
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+overflow: hidden;
+}
+#menu{
+	position: absolute;
+	left: 5%;
+}
+#main_menu {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+ a:link { color: red; text-decoration: none;}
+ a:visited { color: black; text-decoration: none;}
+</script>
+</style>
+</head>
+
+<body text="#000000">
+	<center>
+	 	<table border="1" style="width: 1200px; height: 60% border-top:none; border-bottom:none; border-color: #00ff0000;">
+<td style="border-top:none; border-bottom:none;" align="center">
+	<img class="img-city" src="image/rice.jpg" style="width: 180px; height: 180px; border: 3px; border-radius: 70px; transform: scale(1); z-index: 0; transition: all 0.1s ease 0s;" onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+</td>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<td style="border-top:none; border-bottom:none;" align="center">
+	<img class="img-city" src="image/mixrice.jpg" style="width: 180px; height: 180px; border: 3px; border-radius: 70px; transform: scale(1); z-index: 0; transition: all 0.1s ease 0s;" onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<td style="border-top:none; border-bottom:none;" align="center">
+	<img class="img-city" src="image/ramen.jpg" style="width: 180px; height: 180px; border: 3px; border-radius: 70px; transform: scale(1); z-index: 0; transition: all 0.1s ease 0s;" onmouseenter="zoomIn(event)" onmouseleave="zoomOut(event)">
+</td>
+
+<tr>
+	<td><h2><center>공기밥</center></h2></td>
+	<td><h2><center>볶음밥</center></h2></td>
+	<td><h2><center>라면사리</center></h2></td>
+</tr>
+</table>
+</center>
+
+
+
+  <script>
+  function zoomIn(event) {
+    event.target.style.transform = "scale(1.1)";
+    event.target.style.zIndex = 1;
+    event.target.style.transition = "all 0.2s";
+  }
+
+  function zoomOut(event) {
+    event.target.style.transform = "scale(1)";
+    event.target.style.zIndex = 0;
+    event.target.style.transition = "all 0.1s";
+    }
+  </script>
+</div>
+</body>
+</html>
